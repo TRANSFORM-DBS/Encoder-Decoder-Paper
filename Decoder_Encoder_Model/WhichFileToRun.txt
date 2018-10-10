@@ -1,1 +1,4 @@
-ay_hardware_procedure_3
+Run the following m-file: Main_encoder_model_fit_paper
+
+For the second example dataset, change line 3 to
+  EXAMPLE to 1 or 2
